@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/stock-tracker/static/css/main.bae184a3.css",
+    "main.js": "/stock-tracker/static/js/main.65cb2823.js",
+    "static/js/453.3376a190.chunk.js": "/stock-tracker/static/js/453.3376a190.chunk.js",
+    "static/media/img1.jpg": "/stock-tracker/static/media/img1.e8efb0b367e96e3611ea.jpg",
+    "static/media/img2.jpg": "/stock-tracker/static/media/img2.3be2cc214621224318b0.jpg",
+    "static/media/img3.jpg": "/stock-tracker/static/media/img3.14e62fcaec1bae83361c.jpg",
+    "static/media/image2.jpg": "/stock-tracker/static/media/image2.c69e571f6c45f3d04bbd.jpg",
+    "index.html": "/stock-tracker/index.html",
+    "main.bae184a3.css.map": "/stock-tracker/static/css/main.bae184a3.css.map",
+    "main.65cb2823.js.map": "/stock-tracker/static/js/main.65cb2823.js.map",
+    "453.3376a190.chunk.js.map": "/stock-tracker/static/js/453.3376a190.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bae184a3.css",
+    "static/js/main.65cb2823.js"
+  ]
+}
