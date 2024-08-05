@@ -1,0 +1,50 @@
+.TeamContainer {
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.TeamContainer h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+.TeamContainer p {
+    font-size: 1.25em;
+    margin-bottom: 20px;
+}
+
+.teamMembers {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.member {
+    width: 80%;
+    max-width: 300px;
+    margin: 10px;
+    text-align: center;
+}
+
+.member img {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.member h3 {
+    font-size: 1.5em;
+    margin-bottom: 5px;
+}
+
+.member p {
+    font-size: 1em;
+}
+
+@media only screen and (min-width: 768px) {
+    .member {
+        width: 30%;
+    }
+}
